@@ -1,0 +1,12 @@
+C:\Users\rds20\source\repos\browser2\bin\Debug\browser2.exe.config
+C:\Users\rds20\source\repos\browser2\bin\Debug\browser2.exe
+C:\Users\rds20\source\repos\browser2\bin\Debug\browser2.pdb
+C:\Users\rds20\source\repos\browser2\bin\Debug\browser2.xml
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.vbprojAssemblyReference.cache
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.Form1.resources
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.Resources.resources
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.vbproj.GenerateResource.cache
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.vbproj.CoreCompileInputs.cache
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.exe
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.xml
+C:\Users\rds20\source\repos\browser2\obj\Debug\browser2.pdb
